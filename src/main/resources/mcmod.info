@@ -1,0 +1,16 @@
+[
+{
+  "modid": "miniaturecarnival",
+  "name": "Miniature Carnival",
+  "description": "Hi",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Drullkus"],
+  "credits": "The world, for existing",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
